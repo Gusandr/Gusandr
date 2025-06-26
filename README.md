@@ -1,4 +1,7 @@
 <h1 align="center">Привет, я Роман! 👋</h1>
+<p align="center">
+  ![💖 Kotlin Love ❤️](kotlin-love.gif)
+</p>
 <h3 align="center">Android-разработчик из России 🇷🇺</h3>
 
 <p align="center">
@@ -10,8 +13,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=gusandr&theme=onedark&row=2&column=3&margin-w=15&margin-h=15" alt="gusandr" />
   </a>
 </p>
-
-![💖 Kotlin Love ❤️](kotlin-love.gif)
 
 ---
 
