@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я Роман! 👋</h1>
 <p align="center">
-  ![💖 Kotlin Love ❤️](kotlin-love.gif)
+  <img src="kotlin-love.gif" alt="💖 Kotlin Love ❤️"/>
 </p>
 <h3 align="center">Android-разработчик из России 🇷🇺</h3>
 
