@@ -104,10 +104,7 @@
 
 ## 🌐 Мои социальные сети
 
-- **[Telegram](t.me/china_hola)** 💼
-<a href="https://t.me/china_hola" target="_blank" style="display: inline-block; padding: 10px; background: #0088cc; color: white; text-decoration: none;">
-  Telegram
-</a>
+- **[Telegram](https://t.me/china_hola)** 💼
 
 ---
 
