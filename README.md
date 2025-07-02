@@ -104,7 +104,7 @@
 
 ## 🌐 Мои социальные сети
 
-- **[Telegram](t.me/Romanllltest333)** 💼
+- **[Telegram](t.me/china_hola)** 💼
 
 ---
 
