@@ -2,7 +2,7 @@
 <p align="center">
   <img src="kotlin-love.gif" alt="💖 Kotlin Love ❤️"/>
 </p>
-<h3 align="center">Android-разработчик из России 🇷🇺</h3>
+<h3 align="center">Разработчик из России 🇷🇺</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gusandr&label=Profile%20views&color=0e75b6&style=flat" alt="gusandr" />
