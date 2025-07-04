@@ -98,8 +98,10 @@
 
 ## 📅 Мои проекты на GitHub
 
-- [listNowTasks](https://github.com/Gusandr/listNowTasks) - Управление задачами с использованием Kotlin и Jetpack Compose.
-- [GusStiller](https://github.com/Gusandr/gusstiller) - Получение и отправка данных с ПК посредством Discord webhook без использования сторонних библиотек.
+- [EngDictionaryApp](https://github.com/Gusandr/EngDictionaryApp) - Интерактивное приложение для изучения английских слов.
+- [GusStiller](https://github.com/Gusandr/gusstiller) - Получение и отправка основных данных ПК посредством Discord webhook без использования сторонних библиотек.
+- [DiamondReports](https://github.com/Gusandr/DiamondReports) - Удобный плагин для модерации на серверах Minecraft с ядром Spigot.
+- [GusKeepEye](https://github.com/Gusandr/GusKeepEye) - Плагин для полноценной слежки за игроками на севере Minecraft с отправлением всей информации через Discord webhook.
 
 ---
 
