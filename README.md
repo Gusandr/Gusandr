@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Роман! 👋</h1>
+<h1 align="center">Привет, я Java/Kotlin разработчик! 👋</h1>
 <p align="center">
   <img src="kotlin-love.gif" alt="💖 Kotlin Love ❤️"/>
 </p>
@@ -100,6 +100,7 @@
 
 - [EngDictionaryApp](https://github.com/Gusandr/EngDictionaryApp) - Интерактивное приложение для изучения английских слов.
 - [GusStiller](https://github.com/Gusandr/gusstiller) - Получение и отправка основных данных ПК посредством Discord webhook без использования сторонних библиотек.
+- [TGRescue](https://github.com/Gusandr/GusKeepEye) - Удобный Telegram Bot для пересылки сообщений с защитой от спама и использованием SQLLite
 - [DiamondReports](https://github.com/Gusandr/DiamondReports) - Удобный плагин для модерации на серверах Minecraft с ядром Spigot.
 - [GusKeepEye](https://github.com/Gusandr/GusKeepEye) - Плагин для полноценной слежки за игроками на севере Minecraft с отправлением всей информации через Discord webhook.
 
