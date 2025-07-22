@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Java/Kotlin разработчик! 👋</h1>
+<h1 align="center">Привет! 👋</h1>
 <p align="center">
   <img src="kotlin-love.gif" alt="💖 Kotlin Love ❤️"/>
 </p>
